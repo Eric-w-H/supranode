@@ -4,8 +4,8 @@
 # To add new implementations or new tests, simply append your new file to
 # the corresponding list.
 #
-# Author: Eric Hall 
-# Modified from Yanghui Ou's CMakeLists.txt for Cornell's ECE 2400 
+# Author: Yanghui Ou 
+# Modified by Eric Hall from Yanghui Ou's CMakeLists.txt for ECE 2400
 #   Created: Sep. 26, 2019
 #   Modified: Sep 29, 2020
 #
